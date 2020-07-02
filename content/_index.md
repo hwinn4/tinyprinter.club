@@ -117,7 +117,8 @@ Run `printer.py` to print a self-test. If you did everything well, you should ha
 Next, let's get `sirius-client` working.
 
 You'll need npm and ts-node installed; to do that on Debian/Raspbian, run the following:
-```sudo apt-get install npm
+```
+sudo apt-get install npm
 sudo npm install -g ts-node
 ```
 
